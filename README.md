@@ -29,4 +29,8 @@ The competition is open to upper level students (mostly fourth year) from Baekse
 ● Fishing game using random generation <br>
 
 ## Winner <br>
-Winner will be notified of the competition results directly.
+KIM JINOH <br>
+KIM SEUNGGYU <br>
+JANG YUNYEONG <br>
+JEONG HAEMIN <br>
+
